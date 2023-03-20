@@ -16,5 +16,4 @@ Olá, eu sou a Maria 🐱👋
     <a href="https://www.linkedin.com/in/fatima-groh-b0814226b/" targer="balnk"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 
-    </body>
 </head>
