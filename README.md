@@ -1,7 +1,7 @@
 ### Olá, eu sou a Maria 🐱👋
 
 
-- 🔭 Estudo Sistemas de Infomaçao
+- 🔭 Estudo Sistemas de Infomação
 - 🌱 Sou de Santa Catarina, Brasil
 
 <head>
