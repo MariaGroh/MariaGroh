@@ -1,8 +1,9 @@
 ### Olá, eu sou a Maria 🐱👋
 
 
-- 🔭 Estudo Sistemas de Infomação
-- 🌱 Sou de Santa Catarina, Brasil
+- Estudo Sistemas de Infomação
+- Sou de Santa Catarina, Brasil
+- Tenho 20 anos
 
 <head>
     <body>
